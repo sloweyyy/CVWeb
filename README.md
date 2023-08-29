@@ -15,7 +15,7 @@ CVWeb is a personal CV (curriculum vitae) website that showcases your skills, ex
 
 ## Demo
 
-You can access the live demo of CVWeb at [https://yourusername.github.io/CVWeb](https://yourusername.github.io/CVWeb).
+You can access the live demo of CVWeb at [https://sloweyyy.github.io/CVWeb](https://sloweyyy.github.io/CVWeb).
 
 ## Features
 
